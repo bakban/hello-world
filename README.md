@@ -1,2 +1,4 @@
 # hello-world
-My first repo.
+
+We are going to th Andies soon.
+look forward to the trip, wada!
